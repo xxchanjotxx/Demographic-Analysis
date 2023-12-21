@@ -36,11 +36,13 @@ Exploring the 1994 USA demographic census data to answer the following questions
 ## Analysis:
 
 - Number of each race:
-  White                 27816
-  Black                  3124
-  Asian-Pac-Islander     1039
-  Amer-Indian-Eskimo      311
-  Other                   271
+| Race               | Count |
+|-------------------|-------|
+| White             | 27816 |
+| Black             | 3124  |
+| Asian-Pac-Islander| 1039  |
+| Amer-Indian-Eskimo| 311   |
+| Other             | 271   |
 - Average age of men: 39.4
 - Percentage with Bachelors degrees: 16.4%
 - Percentage with higher education that earn >50K: 46.5%
